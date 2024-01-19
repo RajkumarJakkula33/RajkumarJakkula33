@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Jakkula</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/RajkumarJakkula33/RajkumarJakkula33/main/profile-banner.png"> </div>
 <h3 align="center">A passionate Cloud DevOps Engineer</h3>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 - 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
 
