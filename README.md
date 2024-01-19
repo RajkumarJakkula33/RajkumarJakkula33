@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar Jakkula</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/RajkumarJakkula33/RajkumarJakkula33/main/profile-banner.png"> </div>
 <h3 align="center">A passionate Cloud DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
