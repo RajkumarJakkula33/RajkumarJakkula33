@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px">, I'm Rajkumar Jakkula</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/RajkumarJakkula33/RajkumarJakkula33/main/profile-banner.png"> </div>
 
-<h3 align="center">A passionate Cloud DevOps Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"> </h3>
+<h3 align="center">A passionate DevOps Engineer | Cloud, CI/CD, and Automation Specialist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"> </h3>
+
 <img align="right" alt="Coding" width="300" src="animation.gif">
 
 - 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
@@ -10,9 +11,12 @@
 
 - 📫 How to reach me **jakkularajkmr@gmail.com**
 
+#### About Me 
+Experienced DevOps engineer with a strong background in Linux, CI/CD, and cloud management. Proficient in AWS and Azure, skilled in Terraform, Docker, Kubernetes, and Jenkins. Adept at monitoring with Nagios, Splunk, and Dynatrace. Expertise in scripting with Bash, Perl, and Python. Dedicated to maintaining high application availability and troubleshooting across various technologies. Let's collaborate and deploy efficiently!
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+#### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rajkumar-j-358469212/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="RajkumarJakkula33" width="100" /></a>
 </p>
@@ -56,7 +60,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-  ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
+  #### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
