@@ -19,25 +19,6 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-TECHNICAL SKILLS:
-
- 
-	Version Control: GitHub, Bitbucket, GitLab
-	CI/CD: Jenkins, GitLab CI, Argo CD
-	Containers: Docker, Kubernetes, ECS
-	Infrastructure as Code: Terraform, Ansible
-	Scripting: Shell, Bash, Python
-	Cloud: AWS, Azure
-	streaming platform: Apache Kafka
-	Monitoring and Troubleshooting: ELK Stack, Splunk, Prometheus, Grafana, Dynatrace
-	Database: MySQL, PostgreSQL, MongoDB
-	Network Admin: Ultra DNS, Cloudflare
-	Automation: Ansible, Puppet
-	Web/App Server: Apache, IIS, HIS, Tomcat, WebSphere Application Server, JBoss
-	Collaboration: Slack, Team 
-
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  </p>
