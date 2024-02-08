@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="animation.gif">
 
-#### About Me 
+### 👨‍💻 About Me :
 Experienced DevOps engineer with a strong background in Linux, CI/CD, and cloud management. Proficient in AWS and Azure, skilled in Terraform, Docker, Kubernetes, and Jenkins. Adept at monitoring with Nagios, Splunk, and Dynatrace. Expertise in scripting with Bash, Perl, and Python. Dedicated to maintaining high application availability and troubleshooting across various technologies. Let's collaborate and deploy efficiently!
 
 
