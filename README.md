@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px">, I'm Rajkumar Jakkula</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/RajkumarJakkula33/RajkumarJakkula33/main/profile-banner.png"> </div>
 
-<h3 align="center">A passionate DevOps Engineer | Cloud, CI/CD, and Automation Specialist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"> </h3>
+<h3 align="center"><div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>A passionate DevOps Engineer | Cloud, CI/CD, and Automation Specialist <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px"> </h3>
 
 <img align="right" alt="Coding" width="300" src="animation.gif">
 
